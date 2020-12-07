@@ -1,0 +1,13 @@
+package project8;
+
+public class Final extends Parent {
+
+	public static void main(String[] args) {
+
+		Main main = new Main();
+		main.show();
+		
+
+	}
+
+}
