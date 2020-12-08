@@ -9,7 +9,7 @@ public class OpTest5 {
 		int num1 = 10;
 		int num2 = 15;
 		String str = "";
-		str = (++num1 >= num2) ? "num1이 크다" : "num2가 크다";
+		str = (num1 >= num2) ? "num1이 크다" : "num2가 크다";
 		//                        '참'일 경우      '거짓'일 경우
 		System.out.println(str);
 		

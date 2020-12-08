@@ -23,15 +23,15 @@ public class OpTestPrac {
 		e = (((m % 500) % 100) % 50) % 10;
 		
 		
-		System.out.println("-------------------");
-		System.out.println("동전 교환기 프로그램 1.0");
-		System.out.println("-------------------");
-		System.out.println(" 500원 갯수 : " + a);
-		System.out.println(" 100원 갯수 : " + b);
-		System.out.println("  50원 갯수 : " + c);
-		System.out.println("  10원 갯수 : " + d);
-		System.out.println("   나머지   : " + e);
-		System.out.println("-------------------");
+		System.out.println("--------------------");
+		System.out.println(" 동전 교환기 프로그램 1.0");
+		System.out.println("--------------------");
+		System.out.println("   500원 갯수 : " + a);
+		System.out.println("   100원 갯수 : " + b);
+		System.out.println("    50원 갯수 : " + c);
+		System.out.println("    10원 갯수 : " + d);
+		System.out.println("     나머지   : " + e);
+		System.out.println("--------------------");
 	}
 
 }
