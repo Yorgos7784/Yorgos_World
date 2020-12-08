@@ -16,7 +16,7 @@ public class Practice {
 		
 		Scanner s = new Scanner(System.in);
 		
-		/*System.out.print("첫번째 숫자를 입력하세요 : ");
+		System.out.print("첫번째 숫자를 입력하세요 : ");
 		int num1 = s.nextInt();
 		System.out.print("두번째 숫자를 입력하세요 : ");
 		int num2 = s.nextInt();
@@ -33,7 +33,7 @@ public class Practice {
 		{
 			sum = sum + i;
 		}
-		System.out.println(sum);*/
+		System.out.println(sum);
 		
 		
 		
@@ -65,7 +65,7 @@ public class Practice {
 		
 		
 		
-		while(true) {
+		/*while(true) {
 			System.out.println("-----------------------");
 			System.out.println("간단 파일 관리 프로그램 v1.0");
 			System.out.println("-----------------------");
@@ -118,7 +118,7 @@ public class Practice {
 				continue;
 			}
 		
-		}
+		}*/
 		
 		
 		
