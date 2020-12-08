@@ -9,13 +9,10 @@ public class Scanner3 {
 		double juhang = s.nextDouble();
 		System.out.print("사용한 휘발유 양 입력 : ");
 		double fuels = s.nextDouble();
-		
 		// 연비 구하는 공식
 		double yeonbi = juhang / fuels;
-		System.out.println("차량 연비 : " + yeonbi);
+		System.out.println("사용 연비 : " + yeonbi);
 		s.close();
-		
-		
 	}
 
 }
