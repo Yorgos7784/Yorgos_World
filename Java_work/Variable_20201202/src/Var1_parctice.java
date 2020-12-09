@@ -9,8 +9,8 @@ public class Var1_parctice {
 		String name = "홍길동";
 		int age = 100;
 		char se = '남';
-		float weight = 60.5f;
-		double height = 178.6;
+		float weight = 65.5f; // 몸무게
+		double height = 178.6; // 키
 		String adr = "조선 한양 홍대감댁";
 		
 		// 출력

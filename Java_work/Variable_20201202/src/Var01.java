@@ -21,9 +21,9 @@ public class Var01 {
 		name1 = "김길동";
 		System.out.println("name1 : " + name1);
 		name1 = "박길동";
-		System.out.println("name1 : " + name1);
+		System.out.println("name2 : " + name1);
 		name1 = "최길동";
-		System.out.println("name1 : " + name1 + "\n");
+		System.out.println("name3 : " + name1 + "\n");
 		
 		System.out.println("--------------------------\n");
 		

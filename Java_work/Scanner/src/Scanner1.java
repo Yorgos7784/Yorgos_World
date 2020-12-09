@@ -14,7 +14,7 @@ public class Scanner1 {
 		int age = s.nextInt();
 		
 		System.out.println("\n이름 정보 : " + name);
-		System.out.println("나이 정보 : " + age);
+		System.out.println("나이 정보 : " + age + "살");
 		s.close();
 		
 		
