@@ -28,7 +28,7 @@ public class If4 {
 		else {
 			System.out.println("F학점");
 		}
-		
+		s.close();
 
 		
 		

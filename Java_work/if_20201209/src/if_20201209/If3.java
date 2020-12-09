@@ -19,7 +19,7 @@ public class If3 {
 		else {
 			System.out.println("잘못 입력하였습니다");
 		}
-		
+		s.close();
 		
 		
 
