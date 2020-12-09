@@ -16,7 +16,7 @@ public class Practice {
 		
 		Scanner s = new Scanner(System.in);
 		
-		System.out.print("첫번째 숫자를 입력하세요 : ");
+		/*System.out.print("첫번째 숫자를 입력하세요 : ");
 		int num1 = s.nextInt();
 		System.out.print("두번째 숫자를 입력하세요 : ");
 		int num2 = s.nextInt();
@@ -33,7 +33,7 @@ public class Practice {
 		{
 			sum = sum + i;
 		}
-		System.out.println(sum);
+		System.out.println(sum);*/
 		
 		
 		
@@ -119,6 +119,18 @@ public class Practice {
 			}
 		
 		}*/
+		
+		
+		
+		
+		/*int arr[] = {20, 34, 22, 14, 36, 23, 67, 25, 99, 88};
+		int sum = 0;
+		for(int i = 0; i < 10; i++)
+		{
+			sum = sum + arr[i];
+		}
+		System.out.println("총합 : " + sum);
+		System.out.println("평균 : " + (sum / 10));*/
 		
 		
 		
